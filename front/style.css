@@ -1,0 +1,33 @@
+body{
+    background-color:#f5d3a3 ;
+    
+}
+
+#container{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cad{
+    background-color:#ebae71 ;
+    height: 250px;
+    width: 405px;
+    border-radius: 20px 80px 80px 20px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info{
+    margin-left: auto;
+    margin-right: auto;
+}
+#tabela{
+    width: 600px;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "evo",
+  "version": "0.0.1-d",
+  "description": "evo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexbyk/js-evo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbyk/js-evo/issues"
+  },
+  "homepage": "https://github.com/alexbyk/js-evo#readme"
+}
